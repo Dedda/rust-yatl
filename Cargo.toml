@@ -1,0 +1,9 @@
+[package]
+name = "yatl"
+description = "Yet another timing library aims to be a small and efficient helper to measure time spans in a convenient way"
+version = "0.1.0"
+authors = ["Stephan Goeppentin <dedda102@gmail.com>"]
+edition = "2018"
+license = "LGPL-3.0"
+
+[dependencies]
